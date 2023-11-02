@@ -1,2 +1,2 @@
 ## [MainPage](../README.md)/домашнее задание 
-- [домашнее задание по русскому языку](./Russianlanguage%20Homework)
+- [домашнее задание по русскому языку](./RussianlanguageHomework)
